@@ -9,7 +9,7 @@ created: 2024-04-08
 
 ## Abstract
 
-This proposals introduces a [specification for Lens Frames](https://github.com/defispartan/lens-frames), and proposes that it is adopted as a standard for Lens developers. Lens frames are an implementation of the Open Frames standard, a standard set of tags and procedures for developers to integrate Lens authentication and functionality into frames. The specification also outlines how Lens publications and open actions can be embedded as frames.
+This proposals introduces a [specification for Lens Frames](https://github.com/defispartan/lens-frames), and proposes that it is adopted as a standard for Lens developers. Lens frames are an implementation of Open Frames, a standard set of tags and procedures for developers to integrate Lens authentication and functionality into frames. The specification also proposes a new text publication metadata field: `preferredFrame`, to embed Lens publications and open actions as frames.
 
 ## Motivation
 
